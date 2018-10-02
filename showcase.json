@@ -1,0 +1,14 @@
+{
+    "result": [
+        {
+            "title": "iVysílání neoficiální",
+            "img": "icons/ivysilani.png",
+            "appURL": "https://marhycz.github.io/ivysilani_tvOS/app/app.js"
+        },
+        {
+            "title": "Prima PLAY neoficiální",
+            "img": "icons/primaplay.png",
+            "appURL": "https://marhycz.github.io/primaplay_tvOS/app/app.js"
+        },
+    ]
+}
