@@ -2,12 +2,12 @@
     "result": [
         {
             "title": "iVysílání neoficiální",
-            "img": "icons/ivysilani.png",
+            "img": "https://marhycz.github.io/tvnakopavac/icons/ivysilani.png",
             "appURL": "https://marhycz.github.io/ivysilani_tvOS/app/app.js"
         },
         {
             "title": "Prima PLAY neoficiální",
-            "img": "icons/primaplay.png",
+            "img": "https://marhycz.github.io/tvnakopavac/icons/primaplay.png",
             "appURL": "https://marhycz.github.io/primaplay_tvOS/app/app.js"
         }
     ]
